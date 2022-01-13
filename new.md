@@ -13,7 +13,7 @@ Here's a link to my page:
 [Link](https://anishcd.github.io/cse15l-lab-reports/)
 
 Here's a picture of Geisel:
-![Image] (https://images.squarespace-cdn.com/content/v1/543c8c93e4b03ff31dc5cd8d/1495410751579-7332AJX22ZL5NCZ54F93/IMG_0040.jpg?format=1500w)
+![Image](https://images.squarespace-cdn.com/content/v1/543c8c93e4b03ff31dc5cd8d/1495410751579-7332AJX22ZL5NCZ54F93/IMG_0040.jpg?format=1500w)
 
 > This is a blockquote
 
