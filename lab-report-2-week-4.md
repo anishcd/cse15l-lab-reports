@@ -31,7 +31,7 @@ The second issue our group attempted to fix was when the parantheses to a link w
 
 Here is the code change diff from Github for this fix:
 
-![Image](/img/Issue-2-Fix-ss.png)
+![Image](/img/Issue-1-Fix-ss.png)
 
 [Here is the link to the test file of a failure-inducing input that prompted us to make this change](https://github.com/anishcd/markdown-parse/blob/15f78b4aadaf54f9d4ded2c8a9433b1111b760ab/test-issue-2.md)
 
