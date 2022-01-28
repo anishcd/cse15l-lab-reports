@@ -85,6 +85,7 @@ After doing this, when I attempted to log back into my user account on the serve
 <br/>
 
 ## Optimizing Remote Running
+Running commands on a remote server can tale up much time which could be put to better use. 
 
 There are several ways to make running commands on a remote server faster and more efficient. I attempted several of these methods, including wrapping commands in quotes to log in, run the command, and log out automatically, and also utilizing semicolons to run multiple commands in one line. Both optimizations are possible in one line, as shown below.
 
