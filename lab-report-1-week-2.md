@@ -85,7 +85,6 @@ After doing this, when I attempted to log back into my user account on the serve
 <br/>
 
 ## Optimizing Remote Running
-Running commands on a remote server can tale up much time which could be put to better use. 
 
 There are several ways to make running commands on a remote server faster and more efficient. I attempted several of these methods, including wrapping commands in quotes to log in, run the command, and log out automatically, and also utilizing semicolons to run multiple commands in one line. Both optimizations are possible in one line, as shown below.
 
@@ -94,3 +93,12 @@ There are several ways to make running commands on a remote server faster and mo
 *Output:*
 
 ![Image](/img/Command-Optimizations.png)
+
+These optimizations can save much time and many keystrokes as well. For example, when logging into the remote server and running the commands `ls` and `ls -a` , and logging out of the remote server without these optimizations, it takes 42 keystrokes. Here is a screenshot for this process shown below.
+
+![Image](/img/Non-Optimization-Keystrokes.png)
+
+After applying the optimizations for remote running, however, all of these commands can be performed on the same line, which takes 8 less keystrokes and saves much more time, as shown below.
+
+![Image](/img/Optimized-Keystrokes.png)
+
