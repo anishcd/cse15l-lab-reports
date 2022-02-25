@@ -25,3 +25,17 @@ The contents I added to config in the picture above specify the Host name I am a
 ![Image](/img/Lab-Report-3-ssh-ieng6.png)
 
 As seen in the picture, this command works, and successfuly logs in to the remote server with a much faster and easier command.
+
+This makes running other commands much faster and more efficientas well. For example, if I have a java file that I want to move to the remote server from my computer using the `scp` command, I can do this by using the alias I have created, as shown below.
+
+![Image](/img/scp-using-alias.png)
+
+As you can see, I only had to type the command using my alias:
+
+ > $ scp LabReport3.java ieng6:~/
+
+ as opposed to what I would have had to type previously:
+
+  > $ scp LabReport3.java cs15lwi22apg@ieng6.ucsd.edu:~/
+
+  After I logged back into the remote server, it is clear that the command worked successfully.
