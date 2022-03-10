@@ -68,13 +68,13 @@ I don't believe that the change required to make the MarkdownParse program work 
 
 ## Code Snippet 3
 
-The second code snippet produces the following output in the VSCode preview:
+The second code snippet produces the following output in the CommonMark demo site:
 
-![Image](/img/lab-report-4/snippet-3-vscode-preview.png)
+![Image](/img/lab-report-4/snippet-3-commonmark-demo.png)
 
-From this preview, we can tell that there are 3 valid links in total, which are the ones that appear in blue. The rest should not be considered valid links. Therefore, the expected output from the markdown parser should be:
+From this preview, we can tell that there is 1 valid link in total, which is the one that appears in blue. The rest should not be considered valid links. Therefore, the expected output from the markdown parser should be:
 
-`[https://www.twitter.com, https://ucsd-cse15l-w22.github.io/, https://cse.ucsd.edu/]`
+`[https://ucsd-cse15l-w22.github.io/]`
 
 <br/>
 
